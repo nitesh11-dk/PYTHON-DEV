@@ -99,7 +99,7 @@ example_List = [1, 9, 10]
 # print(list(map(lambda x :x**2 , example_List))) # in one line 
 # print(list(map(lambda x:x**2 , example_List)))
 
-# #  ! recursion 
+#  ! recursion 
 
 # def factorial(n):
 #     if n == 1:
